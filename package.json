@@ -1,0 +1,16 @@
+{
+  "name": "city_pop_service",
+  "version": "1.0.0",
+  "description": "get & set city population microservice",
+  "main": "server.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.20.2",
+    "csv-parser": "3.0.0",
+    "express": "4.18.2",
+    "npm": "^10.2.0",
+    "start": "^5.1.0"
+  }
+}
